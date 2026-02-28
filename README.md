@@ -76,7 +76,4 @@ Base addresses are from `rtl/qcal_apb.sv`.
 ```
 
 ## License
-This project is released under the MIT License. See the header at the top of each RTL file and the LICENSE file (if present).
-
-## License
 MIT License. See `LICENSE`.
