@@ -1,6 +1,7 @@
 ---
 
 # QCAL – Embedded Calibration Controller (Singleton Sugeno Fuzzy, Verilog)
+Publish:https://www.ijcaonline.org/archives/volume187/number95/embedded-calibration-for-cryogenic-quantum-devices-using-a-singleton-sugeno-fuzzy-controller/
 
 This repository contains a **cycle-accurate Verilog prototype** of an embedded, hostless calibration controller for cryogenic quantum-device readout/control experiments.  
 The controller implements a **3×3 Singleton Sugeno fuzzy** update law using fixed-point arithmetic and provides a lightweight **monitor mode** for drift sensitivity.
